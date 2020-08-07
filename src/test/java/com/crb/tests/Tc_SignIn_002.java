@@ -12,12 +12,12 @@ import com.crb.pages.SignInPage;
 public class Tc_SignIn_002 extends BasePage{
 	
 	SignUpPage signUpPage;
-	SignInPage signInPage;
+	SignInPage signInPage; 
 	
 	public Tc_SignIn_002() {
 		super();
 	}
-
+//Hi I made this change on 7th Aug August By Shaminder
 	@BeforeMethod
 	public void setup() throws Exception {
 

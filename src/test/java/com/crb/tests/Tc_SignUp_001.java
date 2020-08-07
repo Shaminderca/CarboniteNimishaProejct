@@ -19,7 +19,7 @@ public class Tc_SignUp_001 extends BasePage{
 	SignUpPage signUp;
 	DownloadPage downloadPage;
 	
-
+//This is change by Shaminder on 7th Aug in Namisha's Project
 	public Tc_SignUp_001() {
 		super();
 	}
