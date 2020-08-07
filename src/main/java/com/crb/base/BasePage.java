@@ -22,6 +22,8 @@ import com.crb.util.ReadConfig;
 import com.crb.util.TestUtil;
 
 public class BasePage {
+	
+	//This is base class
 	public static WebDriver driver;
     public static ReadConfig prop;
 	public static Logger logger;
